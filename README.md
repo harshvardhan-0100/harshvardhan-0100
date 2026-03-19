@@ -1,117 +1,163 @@
-Hi, I'm Harsh Vardhan Rajput 👋
+👋 HI, I'M HARSH VARDHAN RAJPUT
+<p align="left"> <b>Backend • Systems • AI • Embedded</b> </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="600px"> </p>
+🚀 FEATURED PROJECT
+<p align="center"> <img src="https://img.shields.io/badge/FLAGSHIP%20PROJECT-FABELEVEN%20ECOMMERCE-111827?style=for-the-badge&logo=vercel&logoColor=white" /> </p>
+🔹 FABELEVEN — HIGH PERFORMANCE E-COMMERCE PLATFORM
 
-I am a systems-focused developer who enjoys building backend services, AI-driven applications, and embedded systems that interact with the real world.
-My approach revolves around strong fundamentals, clean architecture, and performance-oriented thinking, with an emphasis on scalable and reliable systems.
+Built a production-ready digital storefront for a fashion startup
+
+Designed for performance, scalability, and premium UX
+
+Key Highlights:
+
+🎨 Minimalist UI/UX architecture with strong visual hierarchy
+
+📱 Fully responsive mobile-first design system
+
+🔍 SEO optimization using semantic HTML + structured markup
+
+⚡ Performance tuning via lightweight components & asset optimization
+
+🤖 AI-assisted workflows → ~30% faster development cycle
+
+🔗 https://fabelevenstudios.netlify.app/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧠 ABOUT
+
+I am a systems-focused developer building scalable backend systems, AI-integrated applications, and embedded solutions that interact with real-world environments.
+
+My engineering approach emphasizes:
+
+Strong core fundamentals
+
+System-level thinking
+
+Performance-first design
 
 🎓 B.Tech – Computer Science Engineering
 Madhav Institute of Technology & Science (MITS), Gwalior
 
-👨‍💻 Technical Focus
+🎓 B.S. – Data Science and Applications (Online)
+Indian Institute of Technology, Madras
 
-Backend & System Design
-REST APIs, modular architectures, and scalable backend systems with performance in mind.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Data Structures & Algorithms
-Strong problem-solving foundation with focus on optimization and clean implementations.
+⚙️ TECHNICAL ORIENTATION
 
-Operating Systems & Core CS
-Deep understanding of processes, memory, and system-level abstractions.
+Backend & System Architecture → scalable APIs, modular services
 
-AI & Applied Machine Learning
-Practical implementation of ML models and integration into real-world systems.
+Core CS → DSA, OOP, OS, algorithmic thinking
 
-Embedded Systems & Hardware
-Working with ESP32, Raspberry Pi, and sensor-based systems for real-time applications.
+AI / ML → applied pipelines + system integration
 
-Networking & Debugging
-Packet analysis, API testing, and understanding of protocol-level interactions.
+Embedded Systems → ESP32, IoT, real-time systems
 
-🚀 Projects
-🔹 Crash Detection & Alert System (Embedded + AI)
+Networking → protocol-level understanding + debugging
 
-Developed a real-time accident detection system using ESP32 and sensor fusion.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Designed edge-level anomaly detection with instant alert mechanisms.
+🧩 SSDM ARCHITECTURE (TEAM PROJECT)
+        ┌────────────────────────────┐
+        │   Raw Data Sources         │
+        │  (POI, Nightlights, OSM)   │
+        └────────────┬───────────────┘
+                     │
+                     ▼
+        ┌────────────────────────────┐
+        │   Data Preprocessing Layer │
+        │  Cleaning • Normalization  │
+        └────────────┬───────────────┘
+                     │
+                     ▼
+        ┌────────────────────────────┐
+        │   Grid Generation Engine   │
+        │  Spatial Partitioning      │
+        └────────────┬───────────────┘
+                     │
+                     ▼
+        ┌────────────────────────────┐
+        │   Feature Engineering      │
+        │  Density • Spending Index  │
+        └────────────┬───────────────┘
+                     │
+                     ▼
+        ┌────────────────────────────┐
+        │   Modeling / Clustering    │
+        │  Pattern Detection         │
+        └────────────┬───────────────┘
+                     │
+                     ▼
+        ┌────────────────────────────┐
+        │   Visualization Layer      │
+        │  Heatmaps • Insights       │
+        └────────────────────────────┘
 
-Focused on low-latency response and system reliability.
+📌 Focus:
 
-🔹 SSDM – Spatial Spending & Density Model (Team Project)
+Modular pipelines
 
-Contributing to a collaborative, data-intensive urban analytics system.
+Scalable geospatial processing
 
-Built grid-based spatial models integrating POI data, nightlight datasets, and clustering.
+Team-driven development
 
-Emphasized:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Team collaboration & Git workflows
+🚀 PROJECTS
+🔹 CRASH DETECTION & ALERT SYSTEM (Embedded + AI)
 
-Modular, scalable architecture
+Built a real-time accident detection system using ESP32 + sensors
 
-Data-driven system design
+Designed edge anomaly detection with instant alerts
 
-🔹 Operating Systems Project
+Presented at college project expo (VC + HOD + faculty panel)
 
-Implemented process scheduling, memory management, and synchronization problems.
+🔹 SSDM — SPATIAL SPENDING & DENSITY MODEL (TEAM)
 
-Gained hands-on understanding of system internals and performance trade-offs.
+Built data-driven urban analytics system using geospatial intelligence
 
-🔹 DSA & OOP Implementations
+Integrated POI mapping + nightlight datasets + clustering
 
-Developed structured implementations of core data structures and algorithms.
+🔹 OPERATING SYSTEMS PROJECT
 
-Applied OOP principles and design patterns for maintainable systems.
+Implemented process scheduling, synchronization, memory management
 
-🏆 Achievements & Extracurriculars
+🔹 DSA & OOP SYSTEMS
 
-🎯 Academic Excellence – Secured 8.0 CGPA in first semester
+Built core data structure + algorithm implementations
 
-🚀 Smart India Hackathon – Team Lead (Internal Round Qualified)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🏛️ Active participation in Model United Nations (MUN)
+🛠️ SKILLS & TECH STACK
+💻 PROGRAMMING & SYSTEMS
 
-Enhanced communication, critical thinking, and global awareness
 
-🤝 Involved in campus bodies, seminars, and technical workshops
 
-Collaborated with peers across domains
 
-Developed teamwork, leadership, and presentation skills
 
-🌱 Consistently working on self-driven projects and technical growth
 
-🌱 Currently Working On
 
-Strengthening backend + system design skills
 
-Exploring AI + system integration
 
-Building hardware-software hybrid systems
 
-Improving understanding of distributed systems & networking
+⚙️ BACKEND & WEB
 
-🎯 Career Vision
 
-Become a strong backend/system engineer
 
-Build AI-powered scalable systems
 
-Work on performance-critical applications
 
-Grow into system design & distributed architecture roles
 
-🛠️ Skills
-Programming Languages
 
 
 
 
 
 
+🧠 CORE COMPETENCIES
 
 
-Backend, Systems & Web
 
 
 
@@ -126,16 +172,16 @@ Backend, Systems & Web
 
 
 
-🌐 Frontend (Foundations)
+🔌 EMBEDDED SYSTEMS
 
 
 
 
 
 
-🔌 Embedded Systems & Hardware
 
 
+🌐 NETWORKING & DEBUGGING
 
 
 
@@ -144,24 +190,38 @@ Backend, Systems & Web
 
 
 
-🤝 Collaboration & Work Ethic
 
-Strong inclination towards team-based development
 
-Experience with:
 
-Git-based workflows
 
-Modular project structures
 
-Collaborative debugging
 
-Comfortable working in fast-paced, project-driven environments
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🔗 Connect With Me
+🏆 ACHIEVEMENTS & EXTRACURRICULARS
 
-GitHub: https://github.com/your-github
+🎯 8.0 CGPA (First Semester)
 
-LinkedIn: https://www.linkedin.com/in/harsh-vardhan-rajput-0955733a4/
+🎤 Anchored Events — Gender Sensitization Cell
 
-Email: vardhan.harsh08@protonmail.com
+🌍 MUN Delegate — International Committee (Jan 2026)
+
+🏫 Project Expo Presenter (Crash Detection System)
+→ Presented before VC, HODs, faculty, and judges
+
+💻 Google DevSprint Participant — GDG
+
+⚡ HackIgnite 2.0 Hackathon
+→ Built Civic Issue Resolution System
+→ Top 10 Rank
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌐 CONNECT WITH ME
+
+
+
+
+⚡ PROFILE SUMMARY
+
+Systems-focused developer building scalable backend systems, AI-integrated applications, and embedded solutions with strong foundations in core computer science and real-world problem solving.
